@@ -1,3 +1,4 @@
-*.log
+tempFile.log
+tempFile2.log
 .DS_Store
 *.zip
